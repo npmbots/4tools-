@@ -4,6 +4,9 @@
 
 > git clone https://github.com/xiosveganzy/4tools-
 
+> cd 4tools-
+
+> bash bahan.sh
 ---------------------
 
 ### Anti Recode :)
