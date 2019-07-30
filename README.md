@@ -2,7 +2,7 @@
 
 > pkg install git
 
-> git clone https://github.com/xiosveganzy/4tools-
+> git clone https://github.com/npmbots/tools
 
 > cd 4tools-
 
